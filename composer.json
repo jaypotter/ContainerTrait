@@ -5,6 +5,12 @@
     "require": {
         "php": "^8.3"
     },
+    "suggest": {
+        "potter/container-traits": "dev-main",
+        "potter/container": "dev-main",
+        "potter/traits": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
